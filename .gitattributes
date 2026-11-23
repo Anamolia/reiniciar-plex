@@ -1,2 +1,3 @@
-*.cmd text eol=crlf
+# Scripts .cmd precisam de quebras de linha do Windows (CRLF); guardar como estao
+*.cmd -text
 *.md text eol=lf
